@@ -1,8 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-sound= ""
-default= "Squawk!"
-def parrot (sound,default)
+
+def parrot ("",default="Squawk!")
   
 end
 parrot
