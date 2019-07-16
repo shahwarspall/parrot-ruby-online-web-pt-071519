@@ -5,7 +5,7 @@ def parrot
 end
 
 
-def parrot_ (phrase="Squawk!")
+def parrot_Default (phrase="Squawk!")
   puts phrase
 end
 
